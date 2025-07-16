@@ -2,7 +2,6 @@ const Home = () => {
   
   return (
     <div className="bg-neutral-900 text-white min-h-screen px-10 py-16">
-      {/* Hero Section */}
       <div className="relative bg-[url('/images/Myimg.jpeg')] bg-cover bg-center rounded-3xl overflow-hidden h-[500px] shadow-xl">
         <div className="absolute inset-0 bg-black bg-opacity-60 backdrop-blur-sm"></div>
         <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6">
